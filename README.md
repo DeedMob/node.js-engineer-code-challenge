@@ -1,38 +1,5 @@
-<p align="center">
-	<a href="https://travis-ci.com/gaboesquivel/dash-challenge">
-		<img src="https://travis-ci.com/dashevo/node.js-engineer-code-challenge.svg?branch=master" alt="TravisCI">
-	</a>
-	<a href="https://github.com/airbnb/javascript">
-		<img src="https://img.shields.io/badge/code%20style-airbnb-brightgreen.svg" alt="AirBnB">
-	</a>
-	<a href="https://git.io/col">
-		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
-	</a>
-	<a href="https://nodejs.org/en/blog/release/v8.0.0/">
-		<img src="https://img.shields.io/badge/node%20version-carbon-brightgreen.svg" alt="Node.js 8 - Carbon">
-	</a>
-	<a href="https://twitter.com/intent/follow?screen_name=dashpay">
-		<img src="https://img.shields.io/twitter/follow/dashpay.svg?style=social&logo=twitter" alt="follow on Twitter">
-	</a>
-	<a href="#">
-		<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT">
-	</a>
-</p>
-
-
-<p>&nbsp;</p>
-
-<p align="center">
-	<a href="https://dash.org">
-		<img src="https://www.dash.org/assets/img/graphics/rgb-for-screens/dash_logo_2018_rgb_for_screens.svg" width="600">
-	</a>
-</p>
-
-<p>&nbsp;</p>
 
 # Node.JS Engineer's Code Challenge
-
-> Code challenge for Dash Core Team candidates
 
 The goal of this challenge is to create a browser application which receives,
 validates and displays data from a user.
@@ -48,10 +15,10 @@ In the provided skeleton, you should implement just two actions:
 
 Also, your solution must implement at least one of the following types of external services:
   1. **Peer-to-peer service** which hypothetically runs on user's hosts. Let’s call it "P2P" service.
-     Networking and storage will be cheap for you - **0.0001 DASH per byte**, but you can’t trust
+     Networking and storage will be cheap for you - **0.0001$ per byte**, but you can’t trust
      this service because a malicious user may spoof (modify) your data.
   2. **Self-hosted service** which runs on your server. Let’s call it "hosted" service.
-     Networking and storage will be much more expensive for you - **0.001 DASH per byte**, but the data is
+     Networking and storage will be much more expensive for you - **0.001$ per byte**, but the data is
      located on your server, so you can trust it.
 
 For communication with your external service(s) we provide two functions
