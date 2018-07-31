@@ -127,6 +127,10 @@ Each type of object has its own validation rules.
 Follow the [challenge mission](#your-mission) according to the [provided requirements](#requirements) and do your 
 best. Good luck!
 
+## Submission
+
+Please email us engineering@deedmob.com your submission, which includes your name, code, and a short description of what technologies you used and why, and also how and what you would improve about your solution if you had more time :)
+
 ## License
 
 [MIT](LICENSE) © 2018 Dash Core Team
